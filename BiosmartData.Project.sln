@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiosmartData.Project", "BiosmartData.Project\BiosmartData.Project.csproj", "{F92978FB-63D0-43D5-9E40-03529088E6C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiosmartData.Project.Tests", "BiosmartData.Project.Tests\BiosmartData.Project.Tests.csproj", "{0F5087C4-43C0-40F3-A29A-CBB3AA9282B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92978FB-63D0-43D5-9E40-03529088E6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92978FB-63D0-43D5-9E40-03529088E6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92978FB-63D0-43D5-9E40-03529088E6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92978FB-63D0-43D5-9E40-03529088E6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F5087C4-43C0-40F3-A29A-CBB3AA9282B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5087C4-43C0-40F3-A29A-CBB3AA9282B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5087C4-43C0-40F3-A29A-CBB3AA9282B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5087C4-43C0-40F3-A29A-CBB3AA9282B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE6E18C6-BDFD-46C1-B85D-7B7200D2841E}
+	EndGlobalSection
+EndGlobal

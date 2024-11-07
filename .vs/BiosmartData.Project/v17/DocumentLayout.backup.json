@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5087C4-43C0-40F3-A29A-CBB3AA9282B5}|BiosmartData.Project.Tests\\BiosmartData.Project.Tests.csproj|c:\\users\\anton\\desktop\\biosmartdata.project\\biosmartdata.project.tests\\biosmartdata.project.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F5087C4-43C0-40F3-A29A-CBB3AA9282B5}|BiosmartData.Project.Tests\\BiosmartData.Project.Tests.csproj|solutionrelative:biosmartdata.project.tests\\biosmartdata.project.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|c:\\users\\anton\\desktop\\biosmartdata.project\\biosmartdata.project\\application\\managers\\chateventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|solutionrelative:biosmartdata.project\\application\\managers\\chateventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|c:\\users\\anton\\desktop\\biosmartdata.project\\biosmartdata.project\\application\\interfaces\\ichateventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|solutionrelative:biosmartdata.project\\application\\interfaces\\ichateventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|c:\\users\\anton\\desktop\\biosmartdata.project\\biosmartdata.project\\application\\interfaces\\ichatevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|solutionrelative:biosmartdata.project\\application\\interfaces\\ichatevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|c:\\users\\anton\\desktop\\biosmartdata.project\\biosmartdata.project\\application\\interfaces\\iaggregationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|solutionrelative:biosmartdata.project\\application\\interfaces\\iaggregationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|c:\\users\\anton\\desktop\\biosmartdata.project\\biosmartdata.project\\application\\factories\\eventfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|solutionrelative:biosmartdata.project\\application\\factories\\eventfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|c:\\users\\anton\\desktop\\biosmartdata.project\\biosmartdata.project\\application\\strategies\\hourlystrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|solutionrelative:biosmartdata.project\\application\\strategies\\hourlystrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|c:\\users\\anton\\desktop\\biosmartdata.project\\biosmartdata.project\\domain\\entities\\basechatevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|solutionrelative:biosmartdata.project\\domain\\entities\\basechatevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|c:\\users\\anton\\desktop\\biosmartdata.project\\biosmartdata.project\\domain\\entities\\highfiveevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|solutionrelative:biosmartdata.project\\domain\\entities\\highfiveevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|c:\\users\\anton\\desktop\\biosmartdata.project\\biosmartdata.project\\domain\\entities\\leaveromevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|solutionrelative:biosmartdata.project\\domain\\entities\\leaveromevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|c:\\users\\anton\\desktop\\biosmartdata.project\\biosmartdata.project\\domain\\entities\\enterroomevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|solutionrelative:biosmartdata.project\\domain\\entities\\enterroomevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5087C4-43C0-40F3-A29A-CBB3AA9282B5}|BiosmartData.Project.Tests\\BiosmartData.Project.Tests.csproj|c:\\users\\anton\\desktop\\biosmartdata.project\\biosmartdata.project.tests\\managers\\chateventmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5087C4-43C0-40F3-A29A-CBB3AA9282B5}|BiosmartData.Project.Tests\\BiosmartData.Project.Tests.csproj|solutionrelative:biosmartdata.project.tests\\managers\\chateventmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|c:\\users\\anton\\desktop\\biosmartdata.project\\biosmartdata.project\\application\\strategies\\minutebyminutesstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|solutionrelative:biosmartdata.project\\application\\strategies\\minutebyminutesstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|c:\\users\\anton\\desktop\\biosmartdata.project\\biosmartdata.project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92978FB-63D0-43D5-9E40-03529088E6C0}|BiosmartData.Project\\BiosmartData.Project.csproj|solutionrelative:biosmartdata.project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5087C4-43C0-40F3-A29A-CBB3AA9282B5}|BiosmartData.Project.Tests\\BiosmartData.Project.Tests.csproj|c:\\users\\anton\\desktop\\biosmartdata.project\\biosmartdata.project.tests\\domain\\highfiveeventtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5087C4-43C0-40F3-A29A-CBB3AA9282B5}|BiosmartData.Project.Tests\\BiosmartData.Project.Tests.csproj|solutionrelative:biosmartdata.project.tests\\domain\\highfiveeventtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5087C4-43C0-40F3-A29A-CBB3AA9282B5}|BiosmartData.Project.Tests\\BiosmartData.Project.Tests.csproj|c:\\users\\anton\\desktop\\biosmartdata.project\\biosmartdata.project.tests\\xunit.runner.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F5087C4-43C0-40F3-A29A-CBB3AA9282B5}|BiosmartData.Project.Tests\\BiosmartData.Project.Tests.csproj|solutionrelative:biosmartdata.project.tests\\xunit.runner.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventFactory.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Application\\Factories\\EventFactory.cs",
+              "RelativeDocumentMoniker": "BiosmartData.Project\\Application\\Factories\\EventFactory.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Application\\Factories\\EventFactory.cs",
+              "RelativeToolTip": "BiosmartData.Project\\Application\\Factories\\EventFactory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:04:24.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAggregationStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Application\\Interfaces\\IAggregationStrategy.cs",
+              "RelativeDocumentMoniker": "BiosmartData.Project\\Application\\Interfaces\\IAggregationStrategy.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Application\\Interfaces\\IAggregationStrategy.cs",
+              "RelativeToolTip": "BiosmartData.Project\\Application\\Interfaces\\IAggregationStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:04:20.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IChatEvent.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Application\\Interfaces\\IChatEvent.cs",
+              "RelativeDocumentMoniker": "BiosmartData.Project\\Application\\Interfaces\\IChatEvent.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Application\\Interfaces\\IChatEvent.cs",
+              "RelativeToolTip": "BiosmartData.Project\\Application\\Interfaces\\IChatEvent.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:04:22.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IChatEventManager.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Application\\Interfaces\\IChatEventManager.cs",
+              "RelativeDocumentMoniker": "BiosmartData.Project\\Application\\Interfaces\\IChatEventManager.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Application\\Interfaces\\IChatEventManager.cs",
+              "RelativeToolTip": "BiosmartData.Project\\Application\\Interfaces\\IChatEventManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:04:23.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatEventManager.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Application\\Managers\\ChatEventManager.cs",
+              "RelativeDocumentMoniker": "BiosmartData.Project\\Application\\Managers\\ChatEventManager.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Application\\Managers\\ChatEventManager.cs",
+              "RelativeToolTip": "BiosmartData.Project\\Application\\Managers\\ChatEventManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:19:47.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BiosmartData.Project.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project.Tests\\BiosmartData.Project.Tests.csproj",
+              "RelativeDocumentMoniker": "BiosmartData.Project.Tests\\BiosmartData.Project.Tests.csproj",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project.Tests\\BiosmartData.Project.Tests.csproj",
+              "RelativeToolTip": "BiosmartData.Project.Tests\\BiosmartData.Project.Tests.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T19:13:19.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HourlyStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Application\\Strategies\\HourlyStrategy.cs",
+              "RelativeDocumentMoniker": "BiosmartData.Project\\Application\\Strategies\\HourlyStrategy.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Application\\Strategies\\HourlyStrategy.cs",
+              "RelativeToolTip": "BiosmartData.Project\\Application\\Strategies\\HourlyStrategy.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:50:42.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseChatEvent.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Domain\\Entities\\BaseChatEvent.cs",
+              "RelativeDocumentMoniker": "BiosmartData.Project\\Domain\\Entities\\BaseChatEvent.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Domain\\Entities\\BaseChatEvent.cs",
+              "RelativeToolTip": "BiosmartData.Project\\Domain\\Entities\\BaseChatEvent.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:23:28.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HighFiveEvent.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Domain\\Entities\\HighFiveEvent.cs",
+              "RelativeDocumentMoniker": "BiosmartData.Project\\Domain\\Entities\\HighFiveEvent.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Domain\\Entities\\HighFiveEvent.cs",
+              "RelativeToolTip": "BiosmartData.Project\\Domain\\Entities\\HighFiveEvent.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:23:33.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeaveRomEvent.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Domain\\Entities\\LeaveRomEvent.cs",
+              "RelativeDocumentMoniker": "BiosmartData.Project\\Domain\\Entities\\LeaveRomEvent.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Domain\\Entities\\LeaveRomEvent.cs",
+              "RelativeToolTip": "BiosmartData.Project\\Domain\\Entities\\LeaveRomEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:23:32.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnterRoomEvent.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Domain\\Entities\\EnterRoomEvent.cs",
+              "RelativeDocumentMoniker": "BiosmartData.Project\\Domain\\Entities\\EnterRoomEvent.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Domain\\Entities\\EnterRoomEvent.cs",
+              "RelativeToolTip": "BiosmartData.Project\\Domain\\Entities\\EnterRoomEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:23:30.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MinuteByMinutesStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Application\\Strategies\\MinuteByMinutesStrategy.cs",
+              "RelativeDocumentMoniker": "BiosmartData.Project\\Application\\Strategies\\MinuteByMinutesStrategy.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Application\\Strategies\\MinuteByMinutesStrategy.cs",
+              "RelativeToolTip": "BiosmartData.Project\\Application\\Strategies\\MinuteByMinutesStrategy.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:04:31.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChatEventManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project.Tests\\Managers\\ChatEventManagerTests.cs",
+              "RelativeDocumentMoniker": "BiosmartData.Project.Tests\\Managers\\ChatEventManagerTests.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project.Tests\\Managers\\ChatEventManagerTests.cs",
+              "RelativeToolTip": "BiosmartData.Project.Tests\\Managers\\ChatEventManagerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:41:01.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Program.cs",
+              "RelativeDocumentMoniker": "BiosmartData.Project\\Program.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project\\Program.cs",
+              "RelativeToolTip": "BiosmartData.Project\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:45:58.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HighFiveEventTests.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project.Tests\\Domain\\HighFiveEventTests.cs",
+              "RelativeDocumentMoniker": "BiosmartData.Project.Tests\\Domain\\HighFiveEventTests.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project.Tests\\Domain\\HighFiveEventTests.cs",
+              "RelativeToolTip": "BiosmartData.Project.Tests\\Domain\\HighFiveEventTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:18:18.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "xunit.runner.json",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project.Tests\\xunit.runner.json",
+              "RelativeDocumentMoniker": "BiosmartData.Project.Tests\\xunit.runner.json",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\BiosmartData.Project\\BiosmartData.Project.Tests\\xunit.runner.json",
+              "RelativeToolTip": "BiosmartData.Project.Tests\\xunit.runner.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T19:23:52.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

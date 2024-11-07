@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BiosmartData.Project",
+    "\\BiosmartData.Project.Tests",
+    "\\BiosmartData.Project\\Application",
+    "\\BiosmartData.Project\\Application\\Interfaces",
+    "\\BiosmartData.Project\\Application\\Managers",
+    "\\BiosmartData.Project\\Domain",
+    "\\BiosmartData.Project\\Domain\\Entities"
+  ],
+  "SelectedNode": "\\BiosmartData.Project.Tests\\ChatEventManagerTests.cs",
+  "PreviewInSolutionExplorer": false
+}
