@@ -40,3 +40,4 @@ C:\Users\anton\Desktop\BiosmartData.Project\BiosmartData.Project\obj\Debug\net8.
 C:\Users\anton\Desktop\BiosmartData.Project\BiosmartData.Project\obj\Debug\net8.0\BiosmartData.Project.pdb
 C:\Users\anton\Desktop\BiosmartData.Project\BiosmartData.Project\obj\Debug\net8.0\BiosmartData.Project.genruntimeconfig.cache
 C:\Users\anton\Desktop\BiosmartData.Project\BiosmartData.Project\obj\Debug\net8.0\ref\BiosmartData.Project.dll
+C:\Users\anton\Desktop\BiosmartData.Project\BiosmartData.Project\obj\Debug\net8.0\BiosmartData.Project.sourcelink.json

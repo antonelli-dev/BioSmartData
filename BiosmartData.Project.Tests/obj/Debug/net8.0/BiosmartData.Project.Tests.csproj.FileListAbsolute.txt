@@ -208,3 +208,4 @@ C:\Users\anton\Desktop\BiosmartData.Project\BiosmartData.Project.Tests\obj\Debug
 C:\Users\anton\Desktop\BiosmartData.Project\BiosmartData.Project.Tests\obj\Debug\net8.0\BiosmartData.Project.Tests.pdb
 C:\Users\anton\Desktop\BiosmartData.Project\BiosmartData.Project.Tests\obj\Debug\net8.0\BiosmartData.Project.Tests.genruntimeconfig.cache
 C:\Users\anton\Desktop\BiosmartData.Project\BiosmartData.Project.Tests\obj\Debug\net8.0\ref\BiosmartData.Project.Tests.dll
+C:\Users\anton\Desktop\BiosmartData.Project\BiosmartData.Project.Tests\obj\Debug\net8.0\BiosmartData.Project.Tests.sourcelink.json

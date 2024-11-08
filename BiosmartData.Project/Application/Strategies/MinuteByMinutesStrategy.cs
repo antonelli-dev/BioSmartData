@@ -11,16 +11,19 @@ namespace BiosmartData.Project.Application.Strategies
     {
         public void Display(IEnumerable<IChatEvent> events)
         {
+
+        
+
             if (!events.Any())
             {
                 Console.WriteLine("No events found");
-                return;
             }
 
             foreach (var chatEvent in events.OrderBy(e => e.Time))
             {
                 var formattedTime = DateTime.Today.Add(chatEvent.Time).ToString("h:mm tt");
                 Console.WriteLine($"{formattedTime}: {chatEvent.User} {GetEventDescription(chatEvent)}");
+               
             }
         }
 

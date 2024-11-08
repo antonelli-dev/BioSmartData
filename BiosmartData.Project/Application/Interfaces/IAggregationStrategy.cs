@@ -4,6 +4,6 @@ namespace BiosmartData.Project.Application.Interfaces
 {
     public interface IAggregationStrategy
     {
-        void Display(IEnumerable<IChatEvent> events);
+       void Display(IEnumerable<IChatEvent> events);
     }
 }
